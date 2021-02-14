@@ -1,0 +1,16 @@
+Project compilation is not needed.
+
+Please keep all the files in same place.
+
+Instrctions to execute the code:
+
+1) Open the directory where the files are stored.
+2) Open a command prompt to the location.
+3) Check if installed Python version is above 3
+4) The main execution file is titled main.py.
+5) Type in command prompt: python main.py.
+
+Special Instrctions:
+
+The Summary generator requires a file titled "data.txt".
+Please save the file accordingly.
